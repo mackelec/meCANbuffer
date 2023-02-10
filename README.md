@@ -27,19 +27,11 @@ typedef union
     };
     uint8_t raw[11];
 } CAN_Message_t;
+'''
 
+## Class functions
 
-class meCANBuffer
-{
-    private:
-        CAN_Message_t buffer[BUFFER_SIZE];
-        volatile uint32_t head;
-        volatile uint32_t tail;
-        volatile uint32_t count;
-        CAN_Message_t empty_message;
-        bool data_lost;
-
-    public:
+```
         /**
          * @brief Construct a new me CAN Buffer object
          */
