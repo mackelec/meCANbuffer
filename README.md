@@ -11,6 +11,13 @@ This library provides a circular buffer for storing and accessing [CAN](https://
 - Detect if any data has been lost due to buffer overflow
 - Clear the data lost flag
 
+## USE Cases
+
+This meCANbuffer was designed for the use with CAN libraries.
+
+ - meCAN      https://github.com/mackelec/meCAN
+ - meFDCCAN   https://github.com/mackelec/meFDCAN
+
 ## Types
 
 ```c++
