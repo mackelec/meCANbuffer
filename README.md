@@ -27,11 +27,11 @@ typedef union
     };
     uint8_t raw[11];
 } CAN_Message_t;
-'''
+```
 
 ## Class functions
 
-```
+```c++
         /**
          * @brief Construct a new me CAN Buffer object
          */
