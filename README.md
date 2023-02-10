@@ -1,6 +1,6 @@
 # meCANBuffer Library
 
-This library provides a circular buffer for storing and accessing [CAN](https://en.wikipedia.org/wiki/CAN_bus) messages.
+This Arduino library provides a circular buffer for storing and accessing [CAN](https://en.wikipedia.org/wiki/CAN_bus) messages.
 
 ## Features
 
