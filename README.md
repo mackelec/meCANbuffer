@@ -15,8 +15,9 @@ This Arduino library provides a circular buffer for storing and accessing [CAN](
 
 This meCANbuffer was designed for the use with CAN libraries.
 
-- meCAN      https://github.com/mackelec/meCAN
-- meFDCAN   https://github.com/mackelec/meFDCAN
+- [meCAN](https://github.com/mackelec/meCAN)
+- [meFDCAN](https://github.com/mackelec/meFDCAN)
+
 
 ## Types
 
