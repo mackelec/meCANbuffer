@@ -146,3 +146,4 @@ class meCANBuffer
         {
             data_lost = false;
         }
+};
